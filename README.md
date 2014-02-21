@@ -1,12 +1,12 @@
-# DOM-diff - A JavaScript diffing algorith for DOM elements
+# DOM-diff - A JavaScript diffing algorith for DOM elements (PUBLIC DOMAIN VERSION)
 
-This library allows the abstraction of differences between DOM
-elements as a "diff" object, representing the sequence of modifications
-that must be applied to one element in order to turn it into the other
-element. This diff is non-destructive, meaning that relocations of
-DOM nodes are preferred over remove-insert operations.
+**Note: This branch is not in a working state. It is however the only branch licensed under a true public domain license.**
 
-**NOTE:** this library is current under revision, and the master branch
-is not in working state at the moment.
+This project was originally created by https://github.com/Pomax . As part of an agreement with the original author, it was agreed that this repository would remain under the public domain license and continue to be hosted here under the name "DOM-diff", keeping the current functionality and fixing bugs if time permits it, as long as Github's terms allowed for free hosting of this repository without any intervention on the part of the repository's admin.
 
-QUnit tests: http://pomax.github.io/DOM-diff/tests/
+When it was discovered that the contributions of https://github.com/johanneswilm could not legally be licensed under the public domain license, this last truly public domain version was branched off.
+
+
+
+
+
